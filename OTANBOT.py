@@ -5,12 +5,6 @@ import time
 from datetime import datetime
 
 # ==========================================
-# CONFIGURATION DU TOKEN (TOUT EN HAUT)
-# ==========================================
-TOKEN = "MTUyMzU3NDc3NTkwMzk0ODg1OQ.GHPkd-.hRSmn7n5etPBSdgfHGRK_60VTGsNTpmnw6m8j8"  # Mets ton jeton Discord ici !
-
-
-# ==========================================
 # INITIALISATION DU BOT
 # ==========================================
 intents = discord.Intents.default()
